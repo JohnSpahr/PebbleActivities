@@ -1,5 +1,5 @@
 # Pebble Activities
-Feeling bored? This little Pebble app uses the [Bored API](https://boredapi.com) to suggest activities for you to do! Activities are selected based on the number of participants you choose. Created for Rebble Hackathon #001.
+Feeling bored? This little PebbleJS app uses the [Bored API](https://boredapi.com) to suggest activities for you to do! Activities are selected based on the number of participants you choose. Created for Rebble Hackathon #001.
 
 ### Screenshots
 ![home](Screenshots/color/home.png)
